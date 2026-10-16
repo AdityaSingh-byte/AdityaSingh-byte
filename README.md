@@ -8,7 +8,7 @@ Full-stack engineer in Gurugram, working mostly with TypeScript, Node.js and Rea
 
 Lets an AI coding agent test a feature on a real Android phone and in visible browsers at the same time, while you watch: one step at a time, safe on someone's own phone, with the device log, a report and a video of every run.
 
-`npm install -g duet-qa` · [site](https://adityasingh-byte.github.io/duet/) · [repo](https://github.com/AdityaSingh-byte/duet) · [npm](https://www.npmjs.com/package/duet-qa)
+`npm install -g duet-qa` · [site](https://adityasingh-byte.github.io/duet/) · [repo](https://github.com/AdityaSingh-byte/duet) · [npm](https://www.npmjs.com/package/duet-qa) · [GitHub Packages](https://github.com/AdityaSingh-byte/duet/pkgs/npm/duet)
 
 ### agent-watch
 

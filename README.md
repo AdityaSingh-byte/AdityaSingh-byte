@@ -4,7 +4,7 @@ Full-stack engineer in Gurugram, working mostly with TypeScript, Node.js and Rea
 
 ### duet
 
-[![Two browsers and a real Android phone in one test: the phone approves the laptop's code. With the planted bug the wrong browser gets signed in and the test fails; with the fix it passes.](https://raw.githubusercontent.com/AdityaSingh-byte/duet/main/docs/media/demo-pairing.gif)](https://adityasingh-byte.github.io/duet/)
+[![Two people on one post: Alex comments and renames themselves on a real Android phone while Maya watches in Chrome. With the planted bug Maya still sees the old name and the test fails; with the fix all 29 steps pass.](https://raw.githubusercontent.com/AdityaSingh-byte/duet/main/docs/media/demo-comments.gif)](https://github.com/AdityaSingh-byte/duet)
 
 Lets an AI coding agent test a feature on a real Android phone and in visible browsers at the same time, while you watch: one step at a time, safe on someone's own phone, with the device log, a report and a video of every run.
 
